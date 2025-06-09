@@ -14,9 +14,9 @@ How to Run ?
     when downloading this, put it in your most beloved folder AKA the folder you want to download the maps to, cause by default the maps will download on where the script is 
 
 3.make sure to have this library installed **tqdm** this is for that sweet **real-time progress bar with MB/s speed display**<br/>
-    to download, open terminal/powershell via admin then paste this command | "pip install tqdm"
+    to download, open terminal/powershell via admin then paste this command | <br/>"**pip install tqdm**"
 
-4.open CMD locate the folder on where the script is then paste this command | "python main.py"<br/>
+4.open CMD locate the folder on where the script is then paste this command | <br/>"**python main.py**"<br/>
     then you're all set 
 
 also make sure to remember what offset you've stopped - this is for continuing on where do you stopped the download is. <br/>
