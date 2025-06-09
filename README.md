@@ -19,7 +19,8 @@ How to Run ?
 4.open CMD locate the folder on where the script is then paste this command | "python main.py"<br/>
     then you're all set 
 
-also make sure to remember what offset you've stopped - this is for continuing on where do you stopped the download is, <br/>**you do not want to download the whole thing do you?**
+also make sure to remember what offset you've stopped - this is for continuing on where do you stopped the download is. <br/>
+**you do not want to download the whole thing do you?**<br/>
 the default is 0 cause as i've said you want the whole thing downloaded.<br/> 
 
 For example for 1st time use:<br/>
