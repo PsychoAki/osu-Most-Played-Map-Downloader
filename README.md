@@ -7,7 +7,7 @@ so i've created this, well sort of lmao
 
 How to Run ?
 
-1. well.. this is python script so gotta make sure to download that thang boi
+1.well.. this is python script so gotta make sure to download that thang boi
     go to chrome or better yet search it in microsoft store **if you have one**.. yea looking at ghost windows users
    
 2.obviously download this script how else this this thing gonna run lmao, the name is **main.py** 
@@ -16,7 +16,7 @@ How to Run ?
 3.make sure to have this library installed **tqdm** this is for that sweet **real-time progress bar with MB/s speed display**
     to download, open terminal/powershell via admin then paste this command | "pip install tqdm"
 
-4. open CMD locate the folder on where the script is then paste this command | "python main.py"
+4.open CMD locate the folder on where the script is then paste this command | "python main.py"
     then you're all set 
 
 also make sure to remember what offset you've stopped - this is for continuing on where do you stopped the download is, **you do not want to download the whole thing do you?**
