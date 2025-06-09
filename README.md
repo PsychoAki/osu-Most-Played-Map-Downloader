@@ -16,7 +16,7 @@ How to Run ?
 3.make sure to have this library installed **tqdm** this is for that sweet **real-time progress bar with MB/s speed display**<br/>
     to download, open terminal/powershell via admin then paste this command | <br/>"**pip install tqdm**"
 
-4.open CMD locate the folder on where the script is then paste this command | <br/>"**python main.py**"<br/>
+4.open CMD locate the folder on where the script is then paste this command | <br/>"**python main.py**"
     then you're all set 
 
 also make sure to remember what offset you've stopped - this is for continuing on where do you stopped the download is. <br/>
